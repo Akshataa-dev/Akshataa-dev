@@ -1,4 +1,4 @@
- Hi 👋 I'm Akshat
+ Hello , I'm Akshata
 
 Java Backend Developer currently improving my backend development skills using Spring Boot.
 
